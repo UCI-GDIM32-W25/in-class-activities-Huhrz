@@ -3,11 +3,11 @@
 Put each week's activities under new headers like the one shown above. Headers are created with the # symbol. More # symbols = smaller header.
 
 ## W1
-Activity 1
+Activity 1\n
 Read the rubric carefully, make sure every point works.
 make sure to playtest you itch link, send it to your classmates.
 
-Activity 2
+Activity 2.\n
 Q1. 10
 Q2. 2
 Q3. printMessage prints "hello world"
