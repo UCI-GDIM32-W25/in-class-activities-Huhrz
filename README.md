@@ -19,3 +19,7 @@ make sure to playtest you itch link, send it to your classmates.
 
 ### Activity 3
 https://docs.google.com/document/d/1f7G4mzHXPIyRTfI2d5UnagogdDLsxSn7crcgg0hPKuU/edit?usp=sharing
+
+## W2
+### Activity 1 
+![IMG_6291](https://github.com/user-attachments/assets/cad3d2eb-ef5c-4ed8-83a3-c38a0b9fc3ff)
