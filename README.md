@@ -1,4 +1,4 @@
-# GDIM32 In Class Activities
+![IMG_3703](https://github.com/user-attachments/assets/e9d322e4-4591-4573-91f6-ca55424e559a)# GDIM32 In Class Activities
 ## Instructions
 Put each week's activities under new headers like the one shown above. Headers are created with the # symbol. More # symbols = smaller header.
 
@@ -34,6 +34,6 @@ I set up the basic MG2 gameplay structure by implementing the player jump mechan
 Allen Hu Tiancheng Li
 
 ### Activity 3
-![IMG_6387](https://github.com/user-attachments/assets/9e2c6286-228f-482e-b23e-1881dd57f008)
+![IMG_3703](https://github.com/user-attachments/assets/e3b99a62-776b-435a-96a9-f9f09be94879)
 
 
