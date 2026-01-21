@@ -29,3 +29,7 @@ https://docs.google.com/document/d/1f7G4mzHXPIyRTfI2d5UnagogdDLsxSn7crcgg0hPKuU/
 
 I set up the basic MG2 gameplay structure by implementing the player jump mechanic and starting the coin spawning system. I also began organizing scripts for player control, coins, and UI updates.
 
+## W3
+### Activity 0
+Allen Hu Tiancheng Li
+
