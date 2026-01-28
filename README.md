@@ -1,4 +1,3 @@
-![IMG_3703](https://github.com/user-attachments/assets/e9d322e4-4591-4573-91f6-ca55424e559a)# GDIM32 In Class Activities
 ## Instructions
 Put each week's activities under new headers like the one shown above. Headers are created with the # symbol. More # symbols = smaller header.
 
