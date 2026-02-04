@@ -52,5 +52,10 @@ I made the objects that i think will be used in MG4, and i finished the BirdCont
 ## W5
 
 ### Activity 1
-The method the activity used is good, it uses the abstarct class to define the funtion IBreakable,
+The design separates shared behavior (Item) from optional capabilities (IBreakable). For me, I’d keep this structure but refine it by reducing duplicated durability logic, for example, with a shared breakable base class and making values like durability data-driven so designers can tune them easily. Overall, the idea is solid, but I’d slightly refactor it to scale better and avoid repetition.
+
+### Activity 2
+Model: EnemeyState,ItemW5Demo2
+Veiw: DialogueBubble, InventoryUI
+Controller: EnemyW5Demo2, PlayerW2Demo2
 
