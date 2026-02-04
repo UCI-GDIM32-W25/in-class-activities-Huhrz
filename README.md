@@ -49,4 +49,8 @@ When multiple Locator objects are added to the Scene and the game runs, only one
 [MG4 Commit](https://github.com/Huhrz/HW4/commit/f1ea86d28c2d4ded54a5d95e5df39ce5275dade3)
 I made the objects that i think will be used in MG4, and i finished the BirdControl script that makes the bird flap when you tap Space.
 
+## W5
+
+### Activity 1
+The method the activity used is good, it uses the abstarct class to define the funtion IBreakable,
 
