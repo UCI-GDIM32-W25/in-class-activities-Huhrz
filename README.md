@@ -59,3 +59,7 @@ Model: EnemeyState,ItemW5Demo2
 Veiw: DialogueBubble, InventoryUI  
 Controller: EnemyW5Demo2, PlayerW2Demo2
 
+
+### Activity 4
+Proposal: [Final Project Proposal First Draft](https://docs.google.com/document/d/1fnsY2dn8RalB8GGQmQtA4OftlRL5nsa3st6-GqeGGi8/edit?usp=sharing)
+
