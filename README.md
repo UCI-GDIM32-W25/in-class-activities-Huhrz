@@ -59,7 +59,18 @@ Model: EnemeyState,ItemW5Demo2
 Veiw: DialogueBubble, InventoryUI  
 Controller: EnemyW5Demo2, PlayerW2Demo2
 
+### Activity 3
+#### Scenario 1
+Use ScriptableObjects to represent each beat as data (key, screen position, timestamp), the spawner/manager can use an MVC setup where the song timer triggers events and the view spawns the correct beat visuals, while beat behavior uses polymorphism if different beat types have different hit rules.
+
+#### Scenario 2
+Use a base abstract character class + interfaces for shared systems (health, movement, weapon handling), then implement unique attacks as modular components using polymorphism (each ability/attack overrides a shared “Execute” style method). Use a Finite State Machine for movement/combat/animation states.
+
+#### Scenario 3
+Use interfaces/abstract classes,  so rocks, crops, and seeds share interactions without one giant inheritance tree. Store crop/tool/object stats in ScriptableObjects for easy tuning.
+
 
 ### Activity 4
+Attendence: Allen Hu, Tiancheng Li, Yaokun Wan
 Proposal: [Final Project Proposal First Draft](https://docs.google.com/document/d/1fnsY2dn8RalB8GGQmQtA4OftlRL5nsa3st6-GqeGGi8/edit?usp=sharing)
 
