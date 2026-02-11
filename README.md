@@ -74,3 +74,14 @@ Use interfaces/abstract classes,  so rocks, crops, and seeds share interactions 
 Attendence: Allen Hu, Tiancheng Li, Yaokun Wan  
 Proposal: [Final Project Proposal First Draft](https://docs.google.com/document/d/1fnsY2dn8RalB8GGQmQtA4OftlRL5nsa3st6-GqeGGi8/edit?usp=sharing)
 
+
+## W6
+
+### Activity 1
+
+
+### Activity 2
+
+Attendence: Allen Hu, Tiancheng Li, Yaokun Wan  
+Proposal: [Final Project Proposal Final Draft](https://docs.google.com/document/d/1fnsY2dn8RalB8GGQmQtA4OftlRL5nsa3st6-GqeGGi8/edit?usp=sharing)
+
