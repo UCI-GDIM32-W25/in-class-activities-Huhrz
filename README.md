@@ -49,4 +49,28 @@ When multiple Locator objects are added to the Scene and the game runs, only one
 [MG4 Commit](https://github.com/Huhrz/HW4/commit/f1ea86d28c2d4ded54a5d95e5df39ce5275dade3)
 I made the objects that i think will be used in MG4, and i finished the BirdControl script that makes the bird flap when you tap Space.
 
+## W5
+
+### Activity 1
+The design separates shared behavior (Item) from optional capabilities (IBreakable). For me, I’d keep this structure but refine it by reducing duplicated durability logic, for example, with a shared breakable base class and making values like durability data-driven so designers can tune them easily. Overall, the idea is solid, but I’d slightly refactor it to scale better and avoid repetition.
+
+### Activity 2
+Model: EnemeyState,ItemW5Demo2  
+Veiw: DialogueBubble, InventoryUI  
+Controller: EnemyW5Demo2, PlayerW2Demo2
+
+### Activity 3
+#### Scenario 1
+Use ScriptableObjects to represent each beat as data (key, screen position, timestamp), the spawner/manager can use an MVC setup where the song timer triggers events and the view spawns the correct beat visuals, while beat behavior uses polymorphism if different beat types have different hit rules.
+
+#### Scenario 2
+Use a base abstract character class + interfaces for shared systems (health, movement, weapon handling), then implement unique attacks as modular components using polymorphism (each ability/attack overrides a shared “Execute” style method). Use a Finite State Machine for movement/combat/animation states.
+
+#### Scenario 3
+Use interfaces/abstract classes,  so rocks, crops, and seeds share interactions without one giant inheritance tree. Store crop/tool/object stats in ScriptableObjects for easy tuning.
+
+
+### Activity 4
+Attendence: Allen Hu, Tiancheng Li, Yaokun Wan  
+Proposal: [Final Project Proposal First Draft](https://docs.google.com/document/d/1fnsY2dn8RalB8GGQmQtA4OftlRL5nsa3st6-GqeGGi8/edit?usp=sharing)
 
