@@ -78,7 +78,11 @@ Proposal: [Final Project Proposal First Draft](https://docs.google.com/document/
 ## W6
 
 ### Activity 1
+Gizmos: Gizmos will help us visualize interaction ranges, such as the trigger distance for NPC dialogue and item interaction. This will make it much easier to debug positioning issues in our small office environment and ensure players can clearly access tasks.
 
+Profiling: Because our game includes timers, audio layers, dialogue systems, and state machines, profiling will help us monitor performance and prevent lag. It ensures that slow mechanics (like printer loading) are intentional design choices, not performance problems.
+
+Breakpoint: Our project includes multiple systems. Breakpoints will help us debug state transitions and task completion logic, ensuring the game behaves correctly under pressure scenarios.
 
 ### Activity 2
 
