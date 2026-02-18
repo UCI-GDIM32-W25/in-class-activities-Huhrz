@@ -93,6 +93,7 @@ Proposal: [Final Project Proposal Final Draft](https://docs.google.com/document/
 ## W7
 
 ### Activity 1
+The duck switches between these states based on whether a raycast detects the player, which simulates line of sight and shows how physics checks can control behavior. When pursuing, the duck calculates a normalized direction vector toward the player and rotates smoothly using Vector3.RotateTowards, creating more natural movement. When wandering, it randomly chooses directions and uses a SphereCast to detect obstacles, allowing it to avoid walls instead of getting stuck.
 
 ### Activity 2
 Attendence: Allen Hu, Tiancheng Li, Yaokun Wan   
@@ -102,5 +103,8 @@ Attendence: Allen Hu, Tiancheng Li, Yaokun Wan
 
 ### Activity 4
 [Tasks](https://docs.google.com/document/d/1rLxHEqQ7WVbr2whNHvd6AkNOCeKE-MZJDp9sczpUW1g/edit?usp=sharing)
+
+### Activity 5
+[Commit](https://github.com/TianchengLiRed/GDIM32-Final/commit/8595fdfeb056aa962a07be319db024e67af8c04f)
 
 
