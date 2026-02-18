@@ -89,3 +89,18 @@ Breakpoint: Our project includes multiple systems. Breakpoints will help us debu
 Attendence: Allen Hu, Tiancheng Li, Yaokun Wan  
 Proposal: [Final Project Proposal Final Draft](https://docs.google.com/document/d/1fnsY2dn8RalB8GGQmQtA4OftlRL5nsa3st6-GqeGGi8/edit?usp=sharing)
 
+
+## W7
+
+### Activity 1
+
+### Activity 2
+Attendence: Allen Hu, Tiancheng Li, Yaokun Wan   
+
+### Activity 3
+![IMG_6731](https://github.com/user-attachments/assets/16307d67-ccc1-4642-bf7b-47f67b48fbe4)
+
+### Activity 4
+[Tasks](https://docs.google.com/document/d/1rLxHEqQ7WVbr2whNHvd6AkNOCeKE-MZJDp9sczpUW1g/edit?usp=sharing)
+
+
