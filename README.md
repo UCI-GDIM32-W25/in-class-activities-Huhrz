@@ -106,7 +106,7 @@ Attendence: Allen Hu, Tiancheng Li, Yaokun Wan
 
 ### Activity 5
 [Commit](https://github.com/TianchengLiRed/GDIM32-Final/commit/8595fdfeb056aa962a07be319db024e67af8c04f)
-
+I build on the structures of the interactable objects, wrtie the interactable code and test on the coffecup.
 
 ## W8
 
