@@ -111,14 +111,19 @@ I build on the structures of the interactable objects, wrtie the interactable co
 ## W8
 
 ### Activity 1
+The rendering pipeline demo explains what a rendering pipeline is and how it determines the way graphics are processed and displayed in Unity. It also shows how to check which pipeline a project is using and why compatibility matters for assets and shaders.
 
+Post-Processing Demo walks through how to install the Post Processing package and set up a Post-process Layer and Volume in the scene. It demonstrates how full-screen visual effects like Bloom or Color Grading can enhance the final look of the game.
 ### Activity 2
 Attendence: Allen Hu, Tiancheng Li, Yaokun Wan
 
 ### Activity 3
+Player can notice that which gameobjects they can interact with, but players dont know how to interact with it, which key they should press to interact with. The Same Key E represent different function, sometimes create conflict in the game, feedbacks after players interaction was unclear, sometimes player cant even know what happened after they interact with gameobjects.
 
 ### Activity 4
 I will work on making the interactable UI, which shows the Button to interact when you get close to the object.
 ### Activity 5
+[Commit](https://github.com/TianchengLiRed/GDIM32-Final/commit/29a163bc086a1adfb1731a44b3b1d7a673ea0a55)
+I did the interactable UI and the highlight when you can interact with an object
 
 
