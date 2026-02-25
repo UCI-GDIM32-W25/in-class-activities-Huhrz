@@ -108,3 +108,17 @@ Attendence: Allen Hu, Tiancheng Li, Yaokun Wan
 [Commit](https://github.com/TianchengLiRed/GDIM32-Final/commit/8595fdfeb056aa962a07be319db024e67af8c04f)
 
 
+## W8
+
+### Activity 1
+
+### Activity 2
+Attendence: Allen Hu, Tiancheng Li, Yaokun Wan
+
+### Activity 3
+
+### Activity 4
+I will work on making the interactable UI, which shows the Button to interact when you get close to the object.
+### Activity 5
+
+
