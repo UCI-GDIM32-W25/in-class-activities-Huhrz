@@ -126,4 +126,19 @@ I will work on making the interactable UI, which shows the Button to interact wh
 [Commit](https://github.com/TianchengLiRed/GDIM32-Final/commit/29a163bc086a1adfb1731a44b3b1d7a673ea0a55)
 I did the interactable UI and the highlight when you can interact with an object
 
+## W9
+
+### Activity 1
+
+### Activity 2
+Attendence: Allen Hu, Tiancheng Li, Yaokun Wan
+
+### Activity 3
+
+### Activity 4
+We have the core gameplay loop working, but we are still a little behind where we originally expected to be. A lot of time went into debugging and connecting systems like interaction, dialogue, and task flow instead of only building new content. This shows that our project scope was probably a bit too ambitious for the time we had. Going forward, we need to focus on finishing and polishing the main experience rather than adding too many extra features.
+
+### Activity 5
+
+
 
