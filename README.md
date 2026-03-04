@@ -129,11 +129,13 @@ I did the interactable UI and the highlight when you can interact with an object
 ## W9
 
 ### Activity 1
+In this demo, ScriptableObjects are used to store different pieces of dialogue information. The example in the W9 dialogue scene shows that one ScriptableObject can reference other dialogue ScriptableObjects, which allows the system to create branching dialogue. This approach makes it easier to design conversations with multiple choices and different paths. A SelectOption method is added so that when a player chooses an option, it calls AdvanceDialogue() and loads the corresponding next dialogue based on that option.
 
 ### Activity 2
 Attendence: Allen Hu, Tiancheng Li, Yaokun Wan
 
 ### Activity 3
+When a player is playing our game, we found out that the player might have trouble finding the object to interact with. For example, we have a task that players have to drink coffee, but turns out that players have trouble finding which coffee they should interact with. We might need to guide the player on what they should do. Also, since our game is unfinished, we still need to test our tasks and dialogue system next week.
 
 ### Activity 4
 We have the core gameplay loop working, but we are still a little behind where we originally expected to be. A lot of time went into debugging and connecting systems like interaction, dialogue, and task flow instead of only building new content. This shows that our project scope was probably a bit too ambitious for the time we had. Going forward, we need to focus on finishing and polishing the main experience rather than adding too many extra features.
