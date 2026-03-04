@@ -139,6 +139,7 @@ Attendence: Allen Hu, Tiancheng Li, Yaokun Wan
 We have the core gameplay loop working, but we are still a little behind where we originally expected to be. A lot of time went into debugging and connecting systems like interaction, dialogue, and task flow instead of only building new content. This shows that our project scope was probably a bit too ambitious for the time we had. Going forward, we need to focus on finishing and polishing the main experience rather than adding too many extra features.
 
 ### Activity 5
-
+[commit](https://github.com/TianchengLiRed/GDIM32-Final/commit/47c3431f1ce703055f0ad56e4c38a8a8e4436cfd)
+I worked on a pointer guidance system that helps direct the player to the next important interactable object after accepting a task. It tracks a target object and displays an on-screen arrow and prompt so the player can more easily find where to go next.
 
 
