@@ -156,8 +156,9 @@ Attendence: Allen Hu, Tiancheng Li, Yaokun Wan
 The main playtest issue is not core functionality, but clarity and consistency of feedback. Prioritizing interaction should create the biggest immediate improvement. After that, refining task UI and audio cues will make pacing and guidance feel more natural.
 
 ### Acitivty 3
-I will be working on the task system. Make sure the tasks get check after they have been done, and after finishing all the tasks, you can submmit it to the boss to complete the game.
+We’re functionally close, but not as polished as we originally planned. Most core systems are working, yet integration bugs and UX fixes are taking longer than expected. That shows our scope was a bit too ambitious, so we should focus on finishing one stable, polished gameplay loop instead of adding more features.
 
 ### Acitvity 4
-
+[Commit](https://github.com/TianchengLiRed/GDIM32-Final/commit/0691383eef2429c2437e4281a3963c81976f5c24)
+I work on the task system. Make sure the tasks get check after they have been done.
 
