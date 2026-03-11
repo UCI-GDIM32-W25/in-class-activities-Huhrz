@@ -144,4 +144,20 @@ We have the core gameplay loop working, but we are still a little behind where w
 [commit](https://github.com/TianchengLiRed/GDIM32-Final/commit/47c3431f1ce703055f0ad56e4c38a8a8e4436cfd)
 I worked on a pointer guidance system that helps direct the player to the next important interactable object after accepting a task. It tracks a target object and displays an on-screen arrow and prompt so the player can more easily find where to go next.
 
+## W10
+
+### Activity 1
+Attendence: Allen Hu, Tiancheng Li, Yaokun Wan
+
+### Activity 2
+1. Interaction detection is inconsistent: some objects (like the phone) are hard to target.  
+2. Interaction pacing feels slow: fixed interaction duration can interrupt flow.  
+3. Task guidance can be confusing: dialogue, task flow, and phone events overlap.  
+The main playtest issue is not core functionality, but clarity and consistency of feedback. Prioritizing interaction should create the biggest immediate improvement. After that, refining task UI and audio cues will make pacing and guidance feel more natural.
+
+### Acitivty 3
+I will be working on the task system. Make sure the tasks get check after they have been done, and after finishing all the tasks, you can submmit it to the boss to complete the game.
+
+### Acitvity 4
+
 
